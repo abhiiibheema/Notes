@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/DeadLock.md",
-                "mode": "source",
+                "file": "Digital Logic/Boolean Algebra/K - Maps.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeadLock"
+              "title": "K - Maps"
             }
           }
         ]
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +202,14 @@
   },
   "active": "bf022b5b5c9992f9",
   "lastOpenFiles": [
+    "Digital Logic/Boolean Algebra/Boolean Algebra 7, 8 , 9.md",
+    "Digital Logic/Boolean Algebra/K - Maps.md",
+    "Digital Logic/Boolean Algebra/Boolean Algebra 4, 5, 6.md",
+    "Digital Logic/Boolean Algebra/Boolean Algebra 1, 2 , 3.md",
+    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
+    "Digital Logic/Boolean Algebra",
+    "Digital Logic",
+    "OS/DeadLock.md",
     "DM/Set-Theory Revision - 1.md",
     "DM/Set-Theory Revision - 2.md",
     "Maths/Linear Algebra/Linear Algebra - 5.md",
@@ -214,10 +223,8 @@
     "🌁 Attachments/Pasted image 20261101123630.png",
     "🌁 Attachments/Pasted image 20261031195610.png",
     "🌁 Attachments/Pasted image 20261031194922.png",
-    "OS/DeadLock.md",
     "OS/CPU Scheduling.md",
     "OS/Basics of OS.md",
-    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
     "🌁 Attachments",
     "Algorithms",
     "Maths/Linear Algebra",
@@ -240,11 +247,6 @@
     "CN/Routing.md",
     "Maths",
     "CN/Error control.md",
-    "Memory Management.md",
-    "SUBNETTING CONCEPTS & FIXED-LENGTH SUBNET MASKING (FLSM).md",
-    "CN/SPECIAL IPv4 ADDRESSES & TRANSMISSION MODES.md",
-    "DM",
-    "CN",
-    "OS/Untitled"
+    "DM"
   ]
 }
