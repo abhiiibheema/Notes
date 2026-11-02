@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "5b6855e9fb1cfc0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "64771d4d2d252b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf022b5b5c9992f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra - 1, 2, 3, 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41a71d6c0df8b9a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ffeb233493e424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "485e23b596fd2d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f550ca1e54676da1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f53354b536bbcc1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4d17af61d33499d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d1dc95a2d348277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4aeb7a4e08fc0b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VARIABLE LENGTH SUBNET MASKING (VLSM) & SUBNET DESIGN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "135fb2777d570ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VARIABLE LENGTH SUBNET MASKING (VLSM) & SUBNET DESIGN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4f582ee101627f54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "edf60e587c607ff3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "64f40b801bcc86d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VARIABLE LENGTH SUBNET MASKING (VLSM) & SUBNET DESIGN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf022b5b5c9992f9",
+  "lastOpenFiles": [
+    "Maths/Linear Algebra",
+    "CN/IPv4 Header/IPv4 Header 4, 5, 6.md",
+    "Pasted image 20261101132653.png",
+    "Pasted image 20261101132649.png",
+    "Pasted image 20261101131635.png",
+    "Pasted image 20261101131357.png",
+    "CN/IPv4 Header/IPv4 Header 1 , 2 , 3.md",
+    "Pasted image 20261101124340.png",
+    "Pasted image 20261101124126.png",
+    "Pasted image 20261101123630.png",
+    "Pasted image 20261101123428.png",
+    "CN/Transport Layer/Transport Layer - 1 and 2.md",
+    "CN/Transport Layer/Transport Layer - 10, 11.md",
+    "CN/IPv4 Header",
+    "CN/IPv4 Header.md",
+    "CN/Transport Layer/Transport Layer - 8, 9.md",
+    "CN/CLASSLESS INTER-DOMAIN ROUTING (CIDR) & NETWORK MASK.md",
+    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
+    "CN/Transport Layer/Transport Layer - 5 , 6 , 7.md",
+    "CN/Transport Layer/Transport Layer - 3 and 4.md",
+    "Pasted image 20261031195610.png",
+    "Pasted image 20261031194922.png",
+    "C - Programming/Functions & storage classes.md",
+    "OS/DeadLock.md",
+    "CN/Transport Layer",
+    "Maths/Linear Algebra/Linear Algebra - 7.md",
+    "Maths/Linear Algebra/Linear Algebra - 6.md",
+    "Maths/Linear Algebra/Linear Algebra - 5.md",
+    "C - Programming.md",
+    "C - Programming",
+    "CN/Routing.md",
+    "Maths",
+    "DM/Set-Theory Revision - 2.md",
+    "DM/Set-Theory Revision - 1.md",
+    "CN/Error control.md",
+    "Memory Management.md",
+    "SUBNETTING CONCEPTS & FIXED-LENGTH SUBNET MASKING (FLSM).md",
+    "CN/SPECIAL IPv4 ADDRESSES & TRANSMISSION MODES.md",
+    "CN/Notes for Module 1.md",
+    "VARIABLE LENGTH SUBNET MASKING (VLSM) & SUBNET DESIGN.md",
+    "DM",
+    "CN",
+    "OS/Untitled",
+    "OS"
+  ]
+}
