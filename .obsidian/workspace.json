@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Graph Algorithms/Chapter - 2.md",
+                "file": "CN/Application Layer/Chapter - 2.md",
                 "mode": "preview",
                 "source": false
               },
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,9 +201,21 @@
   },
   "active": "bf022b5b5c9992f9",
   "lastOpenFiles": [
-    "Algorithms/Graph Algorithms/Chapter - 1.md",
-    "Algorithms/Graph Algorithms/Chapter - 2.md",
+    "CN/Application Layer/Chapter - 1.md",
+    "CN/Application Layer/Chapter - 2.md",
+    "CN/IPv4 Address/Chapter - 3.md",
+    "CN/Application Layer",
+    "CN/IPv4 Address/Chapter - 2.md",
+    "CN/IPv4 Address/Chapter - 1.md",
+    "CN/Error control.md",
+    "CN/IPv4 Address",
+    "CN/CLASSLESS INTER-DOMAIN ROUTING (CIDR) & NETWORK MASK.md",
+    "Algorithms/Greedy/Chapter - 3.md",
+    "Algorithms/Greedy/Chapter - 2.md",
+    "Algorithms/Greedy/Chapter - 1.md",
     "Algorithms/Graph Algorithms/Chapter - 3.md",
+    "Algorithms/Graph Algorithms/Chapter - 2.md",
+    "Algorithms/Graph Algorithms/Chapter - 1.md",
     "Algorithms/DP/Chapter - 8.md",
     "Algorithms/Graph Algorithms",
     "Algorithms/DP/Chapter - 7.md",
@@ -219,19 +230,9 @@
     "Algorithms/DP",
     "Algorithms/Greedy/Chapter - 5.md",
     "Algorithms/Greedy/Chapter - 4.md",
-    "Algorithms/Greedy/Chapter - 3.md",
-    "Algorithms/Greedy/Chapter - 2.md",
-    "Algorithms/Greedy/Chapter - 1.md",
     "Algorithms/Divide & Conquer/Chapter - 5.md",
     "Algorithms/Greedy",
-    "Algorithms/Divide & Conquer/Chapter - 4.md",
-    "Algorithms/Divide & Conquer/Chapter - 2.md",
-    "Algorithms/Divide & Conquer/Chapter - 3.md",
-    "Algorithms/Divide & Conquer/Chapter - 1.md",
-    "Algorithms/Analysis of Algorithms/6) Space Complexity.md",
     "Algorithms/Divide & Conquer",
-    "Algorithms/Di.md",
-    "Algorithms/Analysis of Algorithms/5) Recurrence Relations & Back-Substitution.md",
     "Algorithms/Analysis of Algorithms",
     "Digital Logic/Boolean Algebra",
     "Digital Logic",
@@ -245,8 +246,6 @@
     "🌁 Attachments/Pasted image 20261101123630.png",
     "🌁 Attachments/Pasted image 20261031195610.png",
     "🌁 Attachments/Pasted image 20261031194922.png",
-    "🌁 Attachments",
-    "Algorithms",
-    "Maths/Linear Algebra"
+    "🌁 Attachments"
   ]
 }
