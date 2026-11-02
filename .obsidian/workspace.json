@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
+                "file": "OS/DeadLock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra - 1, 2, 3, 4"
+              "title": "DeadLock"
             }
           }
         ]
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "9ecbb7ae574f098b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,54 +195,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bf022b5b5c9992f9",
   "lastOpenFiles": [
+    "DM/Set-Theory Revision - 1.md",
+    "DM/Set-Theory Revision - 2.md",
+    "Maths/Linear Algebra/Linear Algebra - 5.md",
+    "Pasted image 20261031103708.png",
+    "🌁 Attachments/Pasted image 20261101132653.png",
+    "🌁 Attachments/Pasted image 20261101132649.png",
+    "🌁 Attachments/Pasted image 20261101131635.png",
+    "🌁 Attachments/Pasted image 20261101131357.png",
+    "🌁 Attachments/Pasted image 20261101124340.png",
+    "🌁 Attachments/Pasted image 20261101124126.png",
+    "🌁 Attachments/Pasted image 20261101123630.png",
+    "🌁 Attachments/Pasted image 20261031195610.png",
+    "🌁 Attachments/Pasted image 20261031194922.png",
+    "OS/DeadLock.md",
+    "OS/CPU Scheduling.md",
+    "OS/Basics of OS.md",
+    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
+    "🌁 Attachments",
+    "Algorithms",
     "Maths/Linear Algebra",
     "CN/IPv4 Header/IPv4 Header 4, 5, 6.md",
-    "Pasted image 20261101132653.png",
-    "Pasted image 20261101132649.png",
-    "Pasted image 20261101131635.png",
-    "Pasted image 20261101131357.png",
     "CN/IPv4 Header/IPv4 Header 1 , 2 , 3.md",
-    "Pasted image 20261101124340.png",
-    "Pasted image 20261101124126.png",
-    "Pasted image 20261101123630.png",
-    "Pasted image 20261101123428.png",
     "CN/Transport Layer/Transport Layer - 1 and 2.md",
     "CN/Transport Layer/Transport Layer - 10, 11.md",
     "CN/IPv4 Header",
     "CN/IPv4 Header.md",
     "CN/Transport Layer/Transport Layer - 8, 9.md",
     "CN/CLASSLESS INTER-DOMAIN ROUTING (CIDR) & NETWORK MASK.md",
-    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
     "CN/Transport Layer/Transport Layer - 5 , 6 , 7.md",
     "CN/Transport Layer/Transport Layer - 3 and 4.md",
-    "Pasted image 20261031195610.png",
-    "Pasted image 20261031194922.png",
     "C - Programming/Functions & storage classes.md",
-    "OS/DeadLock.md",
     "CN/Transport Layer",
     "Maths/Linear Algebra/Linear Algebra - 7.md",
     "Maths/Linear Algebra/Linear Algebra - 6.md",
-    "Maths/Linear Algebra/Linear Algebra - 5.md",
     "C - Programming.md",
     "C - Programming",
     "CN/Routing.md",
     "Maths",
-    "DM/Set-Theory Revision - 2.md",
-    "DM/Set-Theory Revision - 1.md",
     "CN/Error control.md",
     "Memory Management.md",
     "SUBNETTING CONCEPTS & FIXED-LENGTH SUBNET MASKING (FLSM).md",
     "CN/SPECIAL IPv4 ADDRESSES & TRANSMISSION MODES.md",
-    "CN/Notes for Module 1.md",
-    "VARIABLE LENGTH SUBNET MASKING (VLSM) & SUBNET DESIGN.md",
     "DM",
     "CN",
-    "OS/Untitled",
-    "OS"
+    "OS/Untitled"
   ]
 }
