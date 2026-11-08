@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probability Theory/Chapter 2.md",
+                "file": "OS/Memory Management/Chapter - 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "Chapter - 1"
             }
           }
         ]
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,53 +199,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "485e23b596fd2d5e",
+  "active": "9ecbb7ae574f098b",
   "lastOpenFiles": [
-    "Maths/Probability Theory/Chapter 1.md",
-    "Maths/Probability Theory/Chapter 4.md",
+    "DM/Graph - Theory/Master.md",
+    "DM/Graph - Theory/Chapter - 4.md",
+    "DM/Graph - Theory/Chapter - 5.md",
+    "DM/Graph - Theory/Chapter - 3.md",
+    "DM/Graph - Theory/Chapter - 1.md",
+    "🌁 Attachments/Pasted image 20261108235448.png",
+    "🌁 Attachments/Pasted image 20261108235312.png",
+    "🌁 Attachments/Pasted image 20261108235309.png",
+    "🌁 Attachments/Pasted image 20261108235049.png",
+    "🌁 Attachments/Pasted image 20261108235037.png",
+    "DM/Graph - Theory/Chapter - 2.md",
+    "DM/Set - Theory/Set-Theory Revision - 1.md",
+    "DM/Graph - Theory",
+    "DM/Mathematical Logic/Problems.md",
+    "DM/Mathematical Logic/Chapter - 1.md",
+    "DM/Mathematical Logic/Untitled",
+    "DM/Mathematical Logic/Chapter - 4.md",
+    "DM/Mathematical Logic/Chapter - 3.md",
+    "DM/Mathematical Logic/Chapter - 2.md",
+    "Algorithms/Analysis of Algorithms/2) Asymptotic Notations & Discrete Mathematics.md",
+    "DM/Mathematical Logic",
+    "DM/Set - Theory",
+    "Untitled",
+    "Algorithms/Analysis of Algorithms/3) Practical Array Analysis.md",
+    "Algorithms/Analysis of Algorithms/4) Iterative Algorithm Analysis & Syntax Traps.md",
+    "Algorithms/Analysis of Algorithms/5) Recurrence Relations & Back-Substitution.md",
+    "Algorithms/Analysis of Algorithms/1) Foundations & Core Analysis.md",
     "Maths/Probability Theory/Chapter 3.md",
+    "Maths/Probability Theory/Chapter 4.md",
     "Maths/Probability Theory/Chapter 2.md",
-    "DM/Set-Theory Revision - 1.md",
+    "Maths/Probability Theory/Chapter 1.md",
+    "OS/Memory Management/Chapter - 1.md",
     "Digital Logic/Boolean Algebra/Boolean Algebra 7, 8 , 9.md",
     "Digital Logic/Boolean Algebra/Boolean Algebra 4, 5, 6.md",
     "Digital Logic/Boolean Algebra/K - Maps.md",
     "OS/CPU Scheduling.md",
-    "OS/Basics of OS.md",
-    "OS/DeadLock 1, 2 , 3 (End).md",
-    "OS/Process Synchronisation/Chapter - 2.md",
-    "OS/Process Synchronisation/Chapter - 1.md",
-    "DM/Set-Theory Revision - 2.md",
     "OS/Process Synchronisation",
-    "OS/Memory Management/Chapter - 2.md",
-    "OS/Memory Management/Chapter - 1.md",
     "OS/Memory Management",
-    "Digital Logic/Boolean Algebra/Boolean Algebra 1, 2 , 3.md",
-    "Maths/Linear Algebra/Linear Algebra - 5.md",
     "Maths/Probability Theory",
-    "Maths/Linear Algebra/Linear Algebra - 1, 2, 3, 4.md",
-    "CN/Application Layer/Chapter - 1.md",
-    "CN/Application Layer/Chapter - 2.md",
-    "CN/IPv4 Address/Chapter - 3.md",
     "CN/Application Layer",
-    "CN/IPv4 Address/Chapter - 2.md",
-    "CN/IPv4 Address/Chapter - 1.md",
-    "CN/Error control.md",
     "CN/IPv4 Address",
-    "CN/CLASSLESS INTER-DOMAIN ROUTING (CIDR) & NETWORK MASK.md",
-    "Algorithms/Graph Algorithms",
-    "Algorithms/DP",
-    "Algorithms/Greedy",
-    "Algorithms/Divide & Conquer",
-    "Algorithms/Analysis of Algorithms",
     "Pasted image 20261031103708.png",
     "🌁 Attachments/Pasted image 20261101132653.png",
     "🌁 Attachments/Pasted image 20261101132649.png",
     "🌁 Attachments/Pasted image 20261101131635.png",
-    "🌁 Attachments/Pasted image 20261101131357.png",
-    "🌁 Attachments/Pasted image 20261101124340.png",
-    "🌁 Attachments/Pasted image 20261101124126.png",
-    "🌁 Attachments/Pasted image 20261101123630.png",
-    "🌁 Attachments/Pasted image 20261031195610.png",
-    "🌁 Attachments/Pasted image 20261031194922.png"
+    "🌁 Attachments/Pasted image 20261101131357.png"
   ]
 }
