@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Memory Management/Chapter - 1.md",
+                "file": "OS/Basics of OS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter - 1"
+              "title": "Basics of OS"
             }
           }
         ]
@@ -199,8 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ecbb7ae574f098b",
+  "active": "bf022b5b5c9992f9",
   "lastOpenFiles": [
+    "OS/CPU Scheduling/CPU - Scheduling - 2.md",
+    "OS/CPU Scheduling/CPU Scheduling - 1.md",
+    "OS/CPU Scheduling",
+    "OS/Memory Management/Chapter - 1.md",
     "DM/Graph - Theory/Master.md",
     "DM/Graph - Theory/Chapter - 4.md",
     "DM/Graph - Theory/Chapter - 5.md",
@@ -232,16 +236,12 @@
     "Maths/Probability Theory/Chapter 4.md",
     "Maths/Probability Theory/Chapter 2.md",
     "Maths/Probability Theory/Chapter 1.md",
-    "OS/Memory Management/Chapter - 1.md",
     "Digital Logic/Boolean Algebra/Boolean Algebra 7, 8 , 9.md",
     "Digital Logic/Boolean Algebra/Boolean Algebra 4, 5, 6.md",
-    "Digital Logic/Boolean Algebra/K - Maps.md",
-    "OS/CPU Scheduling.md",
     "OS/Process Synchronisation",
     "OS/Memory Management",
     "Maths/Probability Theory",
     "CN/Application Layer",
-    "CN/IPv4 Address",
     "Pasted image 20261031103708.png",
     "🌁 Attachments/Pasted image 20261101132653.png",
     "🌁 Attachments/Pasted image 20261101132649.png",
