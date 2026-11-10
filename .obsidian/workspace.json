@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CN/MAC - Address/Chapter - 2.md",
+                "file": "DSA/Hashing/Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter - 2"
+              "title": "Hashing"
             }
           }
         ]
@@ -199,10 +199,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ecbb7ae574f098b",
+  "active": "bf022b5b5c9992f9",
   "lastOpenFiles": [
-    "CN/MAC - Address/Chapter - 1.md",
+    "DSA/Trees/Chapter - 3.md",
+    "DSA/Trees/Chapter - 2.md",
+    "DSA/Trees/Chapter - 4.md.bak",
+    "DSA/Trees/Chapter - 3.md.bak",
+    "DSA/Trees/Chapter - 2.md.bak",
+    "DSA/Trees/Chapter - 1.md.bak",
+    "DSA/Trees/Chapter - 1.md",
+    "DSA/Hashing/Hashing.md",
+    "DSA/Trees/Chapter - 4.md",
+    "DSA/Trees/Untitled",
     "CN/MAC - Address/Chapter - 2.md",
+    "DSA/Hashing",
+    "DSA/Trees",
+    "DSA/Untitled.md",
+    "DSA",
+    "CN/MAC - Address/Chapter - 1.md",
     "CN/Flow Control/Chapter - 3.md",
     "CN/MAC - Address",
     "CN/Flow Control/Chapter - 2.md",
@@ -212,12 +226,10 @@
     "CN/Error Control/Chapter - 2.md",
     "CN/Error Control/Chapter - 1.md",
     "Maths/Probability Theory/Chapter 4.md",
-    "CN/Error Control",
     "CN/IPv4 Address/Chapter - 1.md",
     "OS/Basics of OS.md",
     "OS/CPU Scheduling/CPU - Scheduling - 2.md",
     "OS/CPU Scheduling/CPU Scheduling - 1.md",
-    "OS/CPU Scheduling",
     "OS/Memory Management/Chapter - 1.md",
     "DM/Graph - Theory/Master.md",
     "DM/Graph - Theory/Chapter - 4.md",
@@ -229,19 +241,6 @@
     "🌁 Attachments/Pasted image 20261108235309.png",
     "🌁 Attachments/Pasted image 20261108235049.png",
     "🌁 Attachments/Pasted image 20261108235037.png",
-    "DM/Graph - Theory/Chapter - 2.md",
-    "DM/Set - Theory/Set-Theory Revision - 1.md",
-    "DM/Graph - Theory",
-    "DM/Mathematical Logic/Problems.md",
-    "DM/Mathematical Logic/Chapter - 1.md",
-    "DM/Mathematical Logic/Untitled",
-    "DM/Mathematical Logic/Chapter - 4.md",
-    "DM/Mathematical Logic/Chapter - 3.md",
-    "DM/Mathematical Logic/Chapter - 2.md",
-    "DM/Mathematical Logic",
-    "DM/Set - Theory",
-    "Untitled",
-    "OS/Process Synchronisation",
     "Pasted image 20261031103708.png",
     "🌁 Attachments/Pasted image 20261101132653.png",
     "🌁 Attachments/Pasted image 20261101132649.png",
