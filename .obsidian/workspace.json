@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64771d4d2d252b0b",
+        "id": "e60dd4d2c0346499",
         "type": "tabs",
         "children": [
           {
-            "id": "bf022b5b5c9992f9",
+            "id": "82d78c979ddbff65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Hashing/Hashing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hashing"
+              "title": "New tab"
             }
           }
         ]
@@ -185,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 588.0873413085938
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,46 +192,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "bf022b5b5c9992f9",
+  "active": "9ecbb7ae574f098b",
   "lastOpenFiles": [
-    "DSA/Trees/Chapter - 3.md",
-    "DSA/Trees/Chapter - 2.md",
-    "DSA/Trees/Chapter - 4.md.bak",
-    "DSA/Trees/Chapter - 3.md.bak",
-    "DSA/Trees/Chapter - 2.md.bak",
-    "DSA/Trees/Chapter - 1.md.bak",
-    "DSA/Trees/Chapter - 1.md",
+    "Algorithms/Tests - 1/Algorithms - Test - 1.md",
+    "Algorithms/Tests - 1",
+    "Clippings/Untitled.md",
+    "Algorithms/Divide & Conquer/TC 's.md",
+    "Clippings",
+    "Algorithms/Divide & Conquer/Chapter - 3.md",
+    "Algorithms/Divide & Conquer/Chapter - 2.md",
+    "Algorithms/Divide & Conquer/Chapter - 1.md",
+    "Algorithms/Divide & Conquer/Chapter - 5.md",
+    "copilot/copilot-conversations/agent__hi@20261111_070129.md",
+    "copilot/copilot-conversations",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/obsidian-markdown",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-fetch-x/fetch-x.ps1",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "Algorithms/Greedy/Chapter - 6.md",
+    "Algorithms/Greedy/Chapter - 5.md",
+    "Algorithms/Greedy/Chapter - 4.md",
+    "Algorithms/Greedy/Chapter - 3.md",
+    "Algorithms/Greedy/Chapter - 2.md",
+    "Algorithms/Greedy/Chapter - 1.md",
     "DSA/Hashing/Hashing.md",
-    "DSA/Trees/Chapter - 4.md",
-    "DSA/Trees/Untitled",
-    "CN/MAC - Address/Chapter - 2.md",
-    "DSA/Hashing",
-    "DSA/Trees",
-    "DSA/Untitled.md",
-    "DSA",
-    "CN/MAC - Address/Chapter - 1.md",
-    "CN/Flow Control/Chapter - 3.md",
-    "CN/MAC - Address",
-    "CN/Flow Control/Chapter - 2.md",
-    "CN/Flow Control/Chapter - 1.md",
-    "CN/Error Control/Chapter - 3.md",
-    "CN/Flow Control",
-    "CN/Error Control/Chapter - 2.md",
-    "CN/Error Control/Chapter - 1.md",
-    "Maths/Probability Theory/Chapter 4.md",
-    "CN/IPv4 Address/Chapter - 1.md",
-    "OS/Basics of OS.md",
-    "OS/CPU Scheduling/CPU - Scheduling - 2.md",
-    "OS/CPU Scheduling/CPU Scheduling - 1.md",
-    "OS/Memory Management/Chapter - 1.md",
-    "DM/Graph - Theory/Master.md",
-    "DM/Graph - Theory/Chapter - 4.md",
-    "DM/Graph - Theory/Chapter - 5.md",
-    "DM/Graph - Theory/Chapter - 3.md",
-    "DM/Graph - Theory/Chapter - 1.md",
+    "DSA/Trees/Chapter - 3.md",
     "🌁 Attachments/Pasted image 20261108235448.png",
     "🌁 Attachments/Pasted image 20261108235312.png",
     "🌁 Attachments/Pasted image 20261108235309.png",
