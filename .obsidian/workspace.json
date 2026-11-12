@@ -11,10 +11,14 @@
             "id": "82d78c979ddbff65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Tests - 1/Algorithms - Test - 2.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Algorithms - Test - 2"
             }
           }
         ]
@@ -196,9 +200,10 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "9ecbb7ae574f098b",
+  "active": "82d78c979ddbff65",
   "lastOpenFiles": [
     "Algorithms/Tests - 1/Algorithms - Test - 1.md",
+    "Algorithms/Tests - 1/Algorithms - Test - 2.md",
     "Algorithms/Tests - 1",
     "Clippings/Untitled.md",
     "Algorithms/Divide & Conquer/TC 's.md",
