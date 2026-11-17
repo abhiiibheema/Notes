@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Tests - 1/Algorithms - Test - 2.md",
+                "file": "DSA/Trees/Trees Questions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms - Test - 2"
+              "title": "Trees Questions"
             }
           }
         ]
@@ -196,14 +196,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Agent Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82d78c979ddbff65",
+  "active": "9ecbb7ae574f098b",
   "lastOpenFiles": [
-    "Algorithms/Tests - 1/Algorithms - Test - 1.md",
+    "DSA/Trees and Hashing Questions/Questions.md",
+    "DSA/Trees/Trees Questions.md",
+    "DSA/Trees/Chapter - 2.md",
+    "DSA/Trees/Chapter - 1.md",
+    "DSA/Hashing/Hashing.md",
     "Algorithms/Tests - 1/Algorithms - Test - 2.md",
+    "DSA/Trees and Hashing Questions",
+    "DM/Untitled",
+    "OS/CPU Scheduling/Prcoess Management & CPU Scheduling.pdf",
+    "OS/Prcoess Management & CPU Scheduling.pdf",
+    "OS/DeadLock/DeadLock 2.pdf",
+    "OS/DeadLock",
+    "DM/Graph - Theory/Chapter - 5.md",
+    "DM/Graph - Theory/Chapter - 3.md",
+    "DM/Graph - Theory/Chapter - 4.md",
+    "DM/Graph - Theory/Chapter - 2.md",
+    "DM/Graph - Theory/Chapter - 1.md",
+    "Digital Logic/Boolean Algebra/K - Maps.md",
+    "Digital Logic/Boolean Algebra/Boolean Algebra 4, 5, 6.md",
+    "Digital Logic/Boolean Algebra/Boolean Algebra 1, 2 , 3.md",
+    "Algorithms/Tests - 1/Algorithms - Test - 1.md",
     "Algorithms/Tests - 1",
     "Clippings/Untitled.md",
     "Algorithms/Divide & Conquer/TC 's.md",
@@ -218,26 +236,7 @@
     "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/obsidian-markdown/references",
-    "copilot/skills/obsidian-markdown",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-fetch-x/fetch-x.ps1",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "Algorithms/Greedy/Chapter - 6.md",
-    "Algorithms/Greedy/Chapter - 5.md",
-    "Algorithms/Greedy/Chapter - 4.md",
-    "Algorithms/Greedy/Chapter - 3.md",
-    "Algorithms/Greedy/Chapter - 2.md",
-    "Algorithms/Greedy/Chapter - 1.md",
-    "DSA/Hashing/Hashing.md",
-    "DSA/Trees/Chapter - 3.md",
     "🌁 Attachments/Pasted image 20261108235448.png",
     "🌁 Attachments/Pasted image 20261108235312.png",
     "🌁 Attachments/Pasted image 20261108235309.png",
