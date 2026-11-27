@@ -626,13 +626,13 @@ Step-by-Step Multi-Instance Detection Numerical Example
 - **Given State**: 5 Processes ($P_0-P_4$), 3 Resources ($A, B, C$).
 - $\text{Available} = (0, 0, 0)$.
 
-|Process|Allocation (A B C)|Request Matrix (A B C)|Initial $\text{Finish}[i]$|
-|---|---|---|---|
-|**P0**|0 1 0|0 0 0|**false**|
-|**P1**|2 0 0|2 0 2|**false**|
-|**P2**|3 0 3|0 0 0|**false**|
-|**P3**|2 1 1|1 0 0|**false**|
-|**P4**|0 0 2|0 0 2|**false**|
+| Process | Allocation (A B C) | Request Matrix (A B C) | Initial $\text{Finish}[i]$ |
+| ------- | ------------------ | ---------------------- | -------------------------- |
+| **P0**  | 0 1 0              | 0 0 0                  | **false**                  |
+| **P1**  | 2 0 0              | 2 0 2                  | **false**                  |
+| **P2**  | 3 0 3              | 0 0 0                  | **false**                  |
+| **P3**  | 2 1 1              | 1 0 0                  | **false**                  |
+| **P4**  | 0 0 2              | 0 0 2                  | **false**                  |
 
 - **Step-by-Step Matrix Trace**:
     1. **Initialization**: $\text{Work} = (0, 0, 0)$. $\text{Finish} = [\text{false}, \text{false}, \text{false}, \text{false}, \text{false}]$.
